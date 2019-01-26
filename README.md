@@ -1,0 +1,2 @@
+# Musings
+Useful functions
